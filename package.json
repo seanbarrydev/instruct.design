@@ -1,0 +1,44 @@
+{
+  "name": "instruct-design",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/free-regular-svg-icons": "^5.15.2",
+    "@nuxt/content": "^1.12.0",
+    "@nuxtjs/sitemap": "^2.4.0",
+    "@tailwindcss/typography": "^0.4.0",
+    "animate.css": "^4.1.1",
+    "core-js": "^3.8.2",
+    "nuxt": "^2.14.12",
+    "prism-themes": "^1.5.0",
+    "remark-emoji": "^2.1.0",
+    "remark-external-links": "^8.0.0",
+    "v-click-outside": "^3.1.2",
+    "vue-typed-js": "^0.1.2"
+  },
+  "devDependencies": {
+    "@aceforth/nuxt-optimized-images": "^1.4.0",
+    "@fortawesome/free-brands-svg-icons": "^5.15.2",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "@nuxtjs/google-analytics": "^2.4.0",
+    "@nuxtjs/pwa": "^3.3.4",
+    "@nuxtjs/tailwindcss": "^3.4.2",
+    "autoprefixer": "^9",
+    "imagemin-gifsicle": "^7.0.0",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-pngquant": "^9.0.1",
+    "imagemin-svgo": "^8.0.0",
+    "postcss": "^7",
+    "responsive-loader": "^2.3.0",
+    "sharp": "^0.27.1",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "webp-loader": "^0.6.0"
+  }
+}

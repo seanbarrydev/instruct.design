@@ -1,0 +1,149 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+    @font-face {
+        font-family: 'Source Sans Pro instruct-design';
+        font-weight: 200;
+        font-style: normal;
+        font-display: auto;
+        src: url('~assets/fonts/SourceSansPro-ExtraLight.ttf') format('truetype'), url('~assets/fonts/SourceSansPro-ExtraLight.woff') format('woff'), url('~assets/fonts/SourceSansPro-ExtraLight.woff2') format('woff2'), url('~assets/fonts/SourceSansPro-ExtraLight.otf') format('opentype');
+    }
+    @font-face {
+        font-family: 'Source Sans Pro instruct-design';
+        font-weight: 200;
+        font-style: italic;
+        font-display: auto;
+        src: url('~assets/fonts/SourceSansPro-ExtraLightItalic.ttf') format('truetype'), url('~assets/fonts/SourceSansPro-ExtraLightItalic.woff') format('woff'), url('~assets/fonts/SourceSansPro-ExtraLightItalic.woff2') format('woff2'), url('~assets/fonts/SourceSansPro-ExtraLightItalic.otf') format('opentype');
+    }
+    @font-face {
+        font-family: 'Source Sans Pro instruct-design';
+        font-weight: 300;
+        font-style: normal;
+        font-display: auto;
+        src: url('~assets/fonts/SourceSansPro-Light.ttf') format('truetype'), url('~assets/fonts/SourceSansPro-Light.woff') format('woff'), url('~assets/fonts/SourceSansPro-Light.woff2') format('woff2'), url('~assets/fonts/SourceSansPro-Light.otf') format('opentype');
+    }
+    @font-face {
+        font-family: 'Source Sans Pro instruct-design';
+        font-weight: 300;
+        font-style: italic;
+        font-display: auto;
+        src: url('~assets/fonts/SourceSansPro-LightItalic.ttf') format('truetype'), url('~assets/fonts/SourceSansPro-LightItalic.woff') format('woff'), url('~assets/fonts/SourceSansPro-LightItalic.woff2') format('woff2'), url('~assets/fonts/SourceSansPro-LightItalic.otf') format('opentype');
+    }
+    @font-face {
+        font-family: 'Source Sans Pro instruct-design';
+        font-weight: 400;
+        font-style: normal;
+        font-display: auto;
+        src: url('~assets/fonts/SourceSansPro-Regular.ttf') format('truetype'), url('~assets/fonts/SourceSansPro-Regular.woff') format('woff'), url('~assets/fonts/SourceSansPro-Regular.woff2') format('woff2'), url('~assets/fonts/SourceSansPro-Regular.otf') format('opentype');
+    }
+    @font-face {
+        font-family: 'Source Sans Pro instruct-design';
+        font-weight: 400;
+        font-style: italic;
+        font-display: auto;
+        src: url('~assets/fonts/SourceSansPro-Italic.ttf') format('truetype'), url('~assets/fonts/SourceSansPro-Italic.woff') format('woff'), url('~assets/fonts/SourceSansPro-Italic.woff2') format('woff2'), url('~assets/fonts/SourceSansPro-Italic.otf') format('opentype');
+    }
+    @font-face {
+        font-family: 'Source Sans Pro instruct-design';
+        font-weight: 600;
+        font-style: normal;
+        font-display: auto;
+        src: url('~assets/fonts/SourceSansPro-SemiBold.ttf') format('truetype'), url('~assets/fonts/SourceSansPro-SemiBold.woff') format('woff'), url('~assets/fonts/SourceSansPro-SemiBold.woff2') format('woff2'), url('~assets/fonts/SourceSansPro-SemiBold.otf') format('opentype');
+    }
+    @font-face {
+        font-family: 'Source Sans Pro instruct-design';
+        font-weight: 600;
+        font-style: italic;
+        font-display: auto;
+        src: url('~assets/fonts/SourceSansPro-SemiBoldItalic.ttf') format('truetype'), url('~assets/fonts/SourceSansPro-SemiBoldItalic.woff') format('woff'), url('~assets/fonts/SourceSansPro-SemiBoldItalic.woff2') format('woff2'), url('~assets/fonts/SourceSansPro-SemiBoldItalic.otf') format('opentype');
+    }
+    @font-face {
+        font-family: 'Source Sans Pro instruct-design';
+        font-weight: 700;
+        font-style: normal;
+        font-display: auto;
+        src: url('~assets/fonts/SourceSansPro-Bold.ttf') format('truetype'), url('~assets/fonts/SourceSansPro-Bold.woff') format('woff'), url('~assets/fonts/SourceSansPro-Bold.woff2') format('woff2'), url('~assets/fonts/SourceSansPro-Bold.otf') format('opentype');
+    }
+    @font-face {
+        font-family: 'Source Sans Pro instruct-design';
+        font-weight: 700;
+        font-style: italic;
+        font-display: auto;
+        src: url('~assets/fonts/SourceSansPro-BoldItalic.ttf') format('truetype'), url('~assets/fonts/SourceSansPro-BoldItalic.woff') format('woff'), url('~assets/fonts/SourceSansPro-BoldItalic.woff2') format('woff2'), url('~assets/fonts/SourceSansPro-BoldItalic.otf') format('opentype');
+    }
+    @font-face {
+        font-family: 'Source Sans Pro instruct-design';
+        font-weight: 900;
+        font-style: normal;
+        font-display: auto;
+        src: url('~assets/fonts/SourceSansPro-Black.ttf') format('truetype'), url('~assets/fonts/SourceSansPro-Black.woff') format('woff'), url('~assets/fonts/SourceSansPro-Black.woff2') format('woff2'), url('~assets/fonts/SourceSansPro-Black.otf') format('opentype');
+    }
+    @font-face {
+        font-family: 'Source Sans Pro instruct-design';
+        font-weight: 900;
+        font-style: italic;
+        font-display: auto;
+        src: url('~assets/fonts/SourceSansPro-BlackItalic.ttf') format('truetype'), url('~assets/fonts/SourceSansPro-BlackItalic.woff') format('woff'), url('~assets/fonts/SourceSansPro-BlackItalic.woff2') format('woff2'), url('~assets/fonts/SourceSansPro-BlackItalic.otf') format('opentype');
+    }
+    html {
+        font-family: 'Source Sans Pro instruct-design', sans-serif;
+        @apply bg-white dark:bg-gray-600;
+    }
+}
+
+@layer utilities {
+    .nav-link:not(.nuxt-link-active) {
+        @apply text-gray-500 dark:text-gray-200;
+    }
+    .nav-link.nuxt-link-active {
+        @apply text-gray-600 dark:text-white;
+    }
+    .nav-link::after {
+        content: '';
+        @apply block m-auto border-b-2 border-gray-600 dark:border-white;
+    }
+    .nav-link:not(.nuxt-link-active)::after {
+        @apply w-0 border-gray-400;
+        transition: width .1s ease-out;
+    }
+    .nav-link-mobile {
+        @apply block px-3 py-2 rounded-md text-base text-gray-900 dark:text-white font-bold;
+    }
+    .nav-link-mobile:not(.nuxt-link-active) {
+        @apply text-gray-500 dark:text-gray-300 font-medium;
+    }
+    :is(.nuxt-link-active, .nav-link:hover)::after {
+        @apply w-full;
+    }
+    .nuxt-content * {
+        @apply text-gray-900 dark:text-white;
+    }
+    .nuxt-content :is(h1, h2, h3) {
+        @apply font-bold py-5;
+    }
+    .nuxt-content h1 {
+        @apply text-4xl;
+    }
+    .nuxt-content h2 {
+        @apply text-3xl;
+    }
+    .nuxt-content h3 {
+        @apply text-xl;
+    }
+    .nuxt-content p {
+        @apply ml-4 pb-5 text-gray-600 dark:text-gray-200;
+    }
+    .nuxt-content a {
+        @apply underline;
+    }
+    .nuxt-content :is(ol, ul) {
+        @apply pl-8;
+    }
+    .nuxt-content ol {
+        @apply list-decimal;
+    }
+    .nuxt-content ul {
+        @apply list-disc;
+    }
+}
