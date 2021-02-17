@@ -16,6 +16,7 @@
             >
           </h2>
           <div class="mt-6 lg:hidden">
+            <!--
             <img
               v-show="currentTheme == 'dark'"
               src="~/assets/img/animated-dark-base-min.gif"
@@ -28,13 +29,13 @@
               class="relative z-10 mx-auto"
               alt="3d character with laptop typing"
             />
-            <!--
+            -->
               <img
               :src="require(`~/assets/img/sean-chair-light-logo-v1.png?{sizes:[480, 600],format:'webp'}`)"
               class="relative z-10 mx-auto"
               alt="3d character with laptop"
             />
-              -->
+             
             <div
               class="hidden sm:block border-b border-gray-300 dark:border-gray-500 transform -translate-y-28"
             ></div>
@@ -103,6 +104,7 @@
             id="animationContainer"
             class="animate__animated animate__slideInRight animate__delay-1s relative -mr-40 sm:mx-auto max-w-none h-full pl-12"
           >
+          <!--
             <img
               v-show="currentTheme == 'dark'"
               src="~/assets/img/animated-dark-min.gif"
@@ -115,13 +117,13 @@
               class="object-cover h-96 lg:h-full mx-auto"
               alt="3d character with laptop typing"
             />
-            <!--
+            -->
               <img
             src="~/assets/img/sean-chair-light-logo-v1.png?{sizes:[480, 600],format:'webp'}"
             class="object-cover h-96 lg:h-full mx-auto"
             alt="3d character with laptop"
           />
-              -->
+              
           </div>
         </transition>
       </div>
