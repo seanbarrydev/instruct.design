@@ -16,13 +16,17 @@
             >
           </h2>
           <div class="mt-6 lg:hidden">
-            <img
-              :src="
+            <picture>
+              <source srcset="/sean-typing-animated-600-optimized-still.webp" />
+              <source srcset="~/assets/img/sean-chair-light-logo-v1.png" />
+              <img
+                src="
                 require(`~/assets/img/sean-chair-light-logo-v1.png?{sizes:[480, 600],format:'webp'}`)
               "
-              class="relative z-10 mx-auto"
-              alt="3d character with laptop"
-            />
+                class="relative z-10 mx-auto"
+                alt="3d character with laptop"
+              />
+            </picture>
 
             <div
               class="hidden sm:block border-b border-gray-300 dark:border-gray-500 transform -translate-y-28"
