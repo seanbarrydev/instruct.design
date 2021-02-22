@@ -16,26 +16,14 @@
             >
           </h2>
           <div class="mt-6 lg:hidden">
-            <!--
             <img
-              v-show="currentTheme == 'dark'"
-              src="~/assets/img/animated-dark-base-min.gif"
-              class="relative z-10 mx-auto"
-              alt="3d character with laptop typing"
-            />
-            <img
-              v-show="currentTheme == 'light'"
-              src="~/assets/img/animated-light-base-min.gif"
-              class="relative z-10 mx-auto"
-              alt="3d character with laptop typing"
-            />
-            -->
-              <img
-              :src="require(`~/assets/img/sean-chair-light-logo-v1.png?{sizes:[480, 600],format:'webp'}`)"
+              :src="
+                require(`~/assets/img/sean-chair-light-logo-v1.png?{sizes:[480, 600],format:'webp'}`)
+              "
               class="relative z-10 mx-auto"
               alt="3d character with laptop"
             />
-             
+
             <div
               class="hidden sm:block border-b border-gray-300 dark:border-gray-500 transform -translate-y-28"
             ></div>
@@ -57,7 +45,6 @@
         </div>
       </div>
     </div>
-
     <div class="hidden lg:block mx-auto max-w-3xl px-6">
       <div class="absolute mt-12 py-16 inset-y-0 right-0 w-1/2 mb-16">
         <!-- plain backdrop -->
@@ -97,48 +84,36 @@
             fill="url(#837c3e70-6c3a-44e6-8854-cc48c737b659)"
           />
         </svg>
-
         <!-- character container -->
-        <transition>
-          <div
-            id="animationContainer"
-            class="animate__animated animate__slideInRight animate__delay-1s relative -mr-40 sm:mx-auto max-w-none h-full pl-12"
-          >
-          <!--
+        <div
+          id="animationContainer"
+          class="animate__animated animate__slideInRight animate__delay-1s relative -mr-40 sm:mx-auto max-w-none h-full pl-12"
+        >
+          <picture>
+            <source srcset="/sean-typing-animated-600-optimized-still.webp" />
+            <source srcset="~/assets/img/sean-chair-light-logo-v1.png" />
             <img
-              v-show="currentTheme == 'dark'"
-              src="~/assets/img/animated-dark-min.gif"
+              src="
+                require(`~/assets/img/sean-chair-light-logo-v1.png?{sizes:[480, 600],format:'webp'}`)
+              "
               class="object-cover h-96 lg:h-full mx-auto"
-              alt="3d character with laptop typing"
+              alt="3d character with laptop"
             />
-            <img
-              v-show="currentTheme == 'light'"
-              src="~/assets/img/animated-light-min.gif"
-              class="object-cover h-96 lg:h-full mx-auto"
-              alt="3d character with laptop typing"
-            />
-            -->
-              <img
-            src="~/assets/img/sean-chair-light-logo-v1.png?{sizes:[480, 600],format:'webp'}"
-            class="object-cover h-96 lg:h-full mx-auto"
-            alt="3d character with laptop"
-          />
-              
-          </div>
-        </transition>
+          </picture>
+        </div>
       </div>
     </div>
   </div>
 </template>
-
-<script>
+  
+  <script>
 export default {
   data() {
     return {
       pageTitleStrings: [
         "Building meaningful learning experiences<span class='text-cranberry'>.</span>",
       ],
-      theme:null,
+      theme: null,
     };
   },
   computed: {
@@ -180,8 +155,8 @@ export default {
   },
 };
 </script>
-
-<style>
+  
+  <style>
 :root {
   --animate-delay: 0.2s;
 }
