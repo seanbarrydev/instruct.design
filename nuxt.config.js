@@ -135,7 +135,7 @@ export default {
   },
 
   googleAnalytics: {
-    id: 'UA-189485612-1'
+    id: 'UA-189676115-1'
   },
 
   // https://www.npmjs.com/package/@nuxtjs/fontawesome
