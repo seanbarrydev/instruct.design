@@ -51,7 +51,7 @@
               Woops!
             </h2>
             <p class="mb-4 text-2xl lg:text-3xl font-normal xl:mb-6">
-              There was an error.
+              There was an error: {{error.statusCode}} {{error.message}}
             </p>
             <button class="inline-flex rounded-md shadow">
               <router-link
@@ -83,6 +83,11 @@
 
 <script>
 export default {
+  head() {
+    return {
+      title: 'Error'
+    }
+  },
   props: ["error"],
 };
 </script>
