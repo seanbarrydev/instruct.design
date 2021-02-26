@@ -26,7 +26,7 @@ The Media Metrics eLearning course provides consists of several interactive less
 The following tools were instrumental in building this course:
 
 - #### **Articulate 360**
-  [Articulate 360](https://articulate.com/360) is a suite of software used to develop eLearning in various formats. It includes tools for designing, and producing eLearning coursework, as well as for remote collaboration. One of its core products, Articulate Rise, is designed for creating responsive course layouts for various device and was the primary tool for this project.
+  [Articulate 360](https://articulate.com/360) is a suite of software used to develop eLearning in various formats. It includes tools for designing and producing eLearning coursework, as well as for remote collaboration. One of its core products, Articulate Rise, is designed for creating responsive course layouts for various device and was the primary tool for this project.
 
 - #### **Adobe Illustrator**
-  Due to the complexity of the subject matter for this course, it was important to illustrate concepts in a simplified manner. Graphic illustrations created in [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) are used to communicate dense topics in a relatable manner.
+  Due to the complexity of the subject matter for this course, it was important to illustrate concepts in a simplified manner. Graphic elements and illustrations created in [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) are used to communicate dense topics in a relatable manner.

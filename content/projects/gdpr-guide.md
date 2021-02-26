@@ -26,7 +26,7 @@ The GDPR Compliance Guide provides an overview of GDPR, background on its intent
 ## Tools
 
 - #### **Adobe Illustrator**
-  Due to the dense legal nature of the course's subject matter, it was important to illustrate concepts in a simplified manner. Graphic illustrations created in [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) were used to communicate these topics in a relatable way.
+  Due to the dense legal nature of the course's subject matter, it was important to illustrate concepts in a simplified manner. Graphic elements and illustrations created in [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) were used to communicate these topics in a relatable way.
 
 - #### **Adobe InDesign**
   One component of the compliance guide is a booklet shared in print and as a PDF. InDesign was used to create a master template with various layouts that included graphics and text descriptions of related topics.
