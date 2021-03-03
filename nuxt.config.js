@@ -177,9 +177,6 @@ export default {
       '/contact/success'
     ],
     routes: [
-      '/about',
-      '/work',
-      '/contact',
       '/work/campaign-manager',
       '/work/amobee-u',
       '/work/ccpa-irr-elearning',

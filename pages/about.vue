@@ -203,6 +203,13 @@ export default {
         content: "instruct.design",
       },
     ],
+    link: [
+        {
+          hid: "canonical",
+          rel: "canonical",
+          href: `https://instruct.design/about`,
+        },
+      ],
   },
 };
 </script>
