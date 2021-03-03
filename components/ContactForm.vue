@@ -3,7 +3,7 @@
     <div
       class="text-gray-900 relative z-10 h-auto p-8 py-10 overflow-hidden bg-white border-b-2 border-gray-300 rounded-lg shadow-2xl px-7"
     >
-    <input type="hidden" name="form-name" value="contact-form" />
+    <input id="contact-form" type="hidden" name="form-name" value="contact-form" />
       <label class="text-sm uppercase" for="name">Name</label>
       <div class="block mb-4 border border-gray-200 rounded-lg">
         <input
@@ -15,7 +15,7 @@
           required
         />
       </div>
-      <label class="text-sm uppercase" for="name">Email</label>
+      <label class="text-sm uppercase" for="email">Email</label>
       <div class="block mb-4 border border-gray-200 rounded-lg">
         <input
           type="text"
@@ -27,7 +27,7 @@
           required
         />
       </div>
-      <label class="text-sm uppercase" for="name">Message</label>
+      <label class="text-sm uppercase" for="message">Message</label>
       <div class="block mb-4 border border-gray-200 rounded-lg">
         <textarea
           type="text"
