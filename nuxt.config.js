@@ -100,7 +100,6 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     '@nuxtjs/sitemap',
-    ['nuxt-canonical', { baseUrl: 'https://instruct.design' }],
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
