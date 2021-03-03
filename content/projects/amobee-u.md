@@ -28,14 +28,14 @@ Across the curriculum, coursework and lessons are delivered in various formats s
 
 The following tools were instrumental in launching and managing Amobee U:
 
-- #### **Skilljar**
+- ### **Skilljar**
   [Skilljar](https://skilljar.com) is a learning/content management system designed specifically for creating and managing customer education programs. Amobee U uses Skilljar to manage course assets, program infrastructure, student groups, and more.
 
-- #### **Camtasia**
+- ### **Camtasia**
   [Camtasia](https://www.techsmith.com/video-editor.html) is a screen recorder and video editor used to create tutorials and instructional videos. It is used throughout the Amobee U curriculum to include interactive videos and SCORM packages for learner progress tracking.
 
-- #### **Vue.js**
+- ### **Vue.js**
   [Vue.js](https://vuejs.org/) is an open source web framework for building and managing modern user interfaces. It is used in several lessons within Amobee U to create interactive visual models that illustrate key concepts.
 
-- #### **Google Slides**
+- ### **Google Slides**
   Google Slides was used to design various course materials and interactive lessons, as well as promotional materials like the [Introducing Amobee U](https://u.amobee.com/intro-presentation/585408) overview deck.

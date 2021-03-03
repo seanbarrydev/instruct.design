@@ -23,5 +23,5 @@ After the acquisition of Acxiom by IPG in 2018, there was a pressing need to est
 
 ## Tools
 
-#### **Adobe InDesign**
+### **Adobe InDesign**
   Various instructional materials were used throughout the summit, including a collaboration playbook created with [Adobe InDesign](https://www.adobe.com/products/indesign.html).

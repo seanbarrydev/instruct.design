@@ -25,14 +25,14 @@ The Digital Campaign Workflow is an interactive visual model that illustrates th
 
 ## Tools
 
-- #### **Keynote**
+- ### **Keynote**
   An initial prototype of the workflow model was created in Keynote to create a template and organize stages and inputs across a campaign.
 
-- #### **Adobe Illustrator**
+- ### **Adobe Illustrator**
   Once the initial prototype was approved by key stakeholders, each stage in the campaign lifecycle was designed on a separate artboard within Illustrator. Layers and shapes were named strategically in order to export artboards as SVG files with appropriate id and class names.
 
-- #### **Bulma**
+- ### **Bulma**
   [Bulma](https://bulma.io/) is a CSS Flexbox-based framework for designing websites, apps, user interfaces and more. It was used to create the general layout for the interactive model as well as the navigation features.
 
-- #### **Greensock**
+- ### **Greensock**
   [Greensock](https://greensock.com/) is a Javascript library for designing responsive animations in websites and apps. It was used to program the interactivity for navigating between different stages in the model.

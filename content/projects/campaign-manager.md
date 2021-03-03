@@ -25,5 +25,5 @@ Much of the coursework in the Campaign Manager series consists of instructional 
 
 ## Tools
 
-#### **Camtasia**
+### **Camtasia**
   [Camtasia](https://www.techsmith.com/video-editor.html) is a screen recorder and video editor used to create tutorials and instructional videos. It is used throughout the Amobee U curriculum to include interactive videos and SCORM packages for learner progress tracking.
