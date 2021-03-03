@@ -3,7 +3,7 @@
         <div class="flex text-base max-w-prose lg:max-w-none space-x-8 mb-12">
           <img
             class="flex-items w-32 h-32 rounded-full border-2 border-cranberry p-1"
-            :src="require(`~/assets/img/sean-headshot-3d.jpg?{sizes:[140, 200],format:'webp'}`)"
+            :src="require(`~/assets/img/sean-headshot-3d.jpg?{sizes:[240],format:'webp'}`)"
             alt="sean barry headshot"
           />
 

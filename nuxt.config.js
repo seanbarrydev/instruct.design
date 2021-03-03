@@ -155,7 +155,11 @@ export default {
       prism: {
         theme: 'prism-themes/themes/prism-material-oceanic.css'
       },
-      remarkPlugins: ['remark-emoji']
+      remarkPlugins: ['remark-emoji'],
+      remarkExternalLinks: {
+        target: '_blank',
+        rel: 'noopener noreferrer'
+      }
     },
   },
 

@@ -98,7 +98,7 @@
                   <div class="ml-3">
                     <dt class="text-xl leading-6 font-bold">Front-end Development</dt>
                     <dd class="mt-2 text-base text-gray-600 dark:text-gray-200">
-                      Building people-focused solutions, currently enjoying <a class="underline" href="https://nuxtjs.org/" target="_blank">Nuxt</a> + <a class="underline" href="https://tailwindcss.com/" target="_blank">Tailwind</a> + <a class="underline" href="https://www.netlify.com/" target="_blank">Netlify</a>
+                      Building people-focused solutions, currently enjoying <a rel="noopener noreferrer" class="underline" href="https://nuxtjs.org/" target="_blank">Nuxt</a> + <a rel="noopener noreferrer" class="underline" href="https://tailwindcss.com/" target="_blank">Tailwind</a> + <a rel="noopener noreferrer" class="underline" href="https://www.netlify.com/" target="_blank">Netlify</a>
                     </dd>
                   </div>
                 </div>
