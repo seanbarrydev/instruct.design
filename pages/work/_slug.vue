@@ -10,7 +10,7 @@
       <BackToWork class="relative" />
       <div class="relative px-4 sm:px-6 lg:px-8">
         <div class="pt-4 text-lg max-w-4xl mx-auto">
-          <h1>
+          <div>
             <span
               class="block max-w-max mx-auto px-2.5 py-0.5 text-base sm:text-lg font-medium dark:text-gray-100"
             >
@@ -20,7 +20,7 @@
               ></font-awesome-icon
               ><span class="pl-2">{{ project.format }}</span>
             </span>
-            <h2
+            <div
               class="my-4 block text-4xl text-center font-extrabold tracking-tight sm:text-5xl"
             >
               <vue-typed-js
@@ -34,14 +34,14 @@
               >
                 <span class="typing"></span>
               </vue-typed-js>
-            </h2>
+            </div>
             <span
               class="block text-center text-sm sm:text-base text-gray-600 dark:text-gray-200"
               ><time :datetime="project.publishDate">
                 {{ formatDate(project.publishDate) }}
               </time></span
             >
-          </h1>
+          </div>
           <img
             class="mt-8 w-full rounded-xl"
             :alt="project.alt"
@@ -61,7 +61,7 @@
           <nav
             class="border-b-2 border-gray-300 dark:border-gray-500 pb-6 mb-2"
           >
-            <h1 class="font-bold text-xl pb-2">Sections:</h1>
+            <div class="font-bold text-xl pb-2">Sections:</div>
             <ul class="text-gray-600 dark:text-gray-200">
               <li v-for="link of project.toc" :key="link.id">
                 <NuxtLink :to="`#${link.id}`" class="group">
