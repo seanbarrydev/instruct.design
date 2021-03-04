@@ -14,7 +14,7 @@ publishDate: 2020-08-03T12:00:00Z
 
 ## Company
 
-[Amobee](https://amobee.com) is a technology company that provides a suite of software products for digital marketers with a focused on converged marketing. 
+[Amobee](https://amobee.com) is a technology company that provides a suite of software products for digital marketers with a focus on converged marketing. 
 
 ## Project
 
