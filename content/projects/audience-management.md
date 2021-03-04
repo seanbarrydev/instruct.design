@@ -17,7 +17,7 @@ publishDate: 2016-09-22T12:00:00Z
 
 ## Project
 
-The Audience Management instructor-led training workshop is a core component of a broader product certification program.
+The Audience Management instructor-led training workshop is a core component of MediaMath's broader product certification program.
 
 <artwork :artwork="artwork"></artwork>
 

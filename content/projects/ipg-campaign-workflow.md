@@ -17,7 +17,7 @@ publishDate: 2017-12-10T12:00:00Z
 
 ## Project
 
-Mediabrands provides a range of services across its various agencies for running effective digital campaigns. Each group has a specific focus at different stages in a campaign's lifecycle. These stages range from planning, to strategy design, to building and launching the campaign, to drawing optimization insights.
+Mediabrands provides a range of services across its various agencies for running digital campaigns of various types and each of its agencies has a specific focus at different stages in a campaign's lifecycle. These stages range from planning, to strategy design, to building and launching the campaign, to drawing optimization insights.
 
 <artwork :artwork="artwork"></artwork>
 
@@ -26,13 +26,13 @@ The Digital Campaign Workflow is an interactive visual model that illustrates th
 ## Tools
 
 - ### **Keynote**
-  An initial prototype of the workflow model was created in Keynote to create a template and organize stages and inputs across a campaign.
+  An initial prototype of the workflow model was created in [Keynote](https://www.apple.com/keynote/) to create a template and organize stages and inputs across a campaign.
 
 - ### **Adobe Illustrator**
-  Once the initial prototype was approved by key stakeholders, each stage in the campaign lifecycle was designed on a separate artboard within Illustrator. Layers and shapes were named strategically in order to export artboards as SVG files with appropriate id and class names.
+  Once the initial prototype was approved by key stakeholders, each stage in the campaign lifecycle was designed on a separate artboard within [Adobe Illustrator](https://www.adobe.com/products/illustrator.html). Layers and shapes were named strategically in order to export artboards as SVG files with appropriate id and class names.
 
 - ### **Bulma**
   [Bulma](https://bulma.io/) is a CSS Flexbox-based framework for designing websites, apps, user interfaces and more. It was used to create the general layout for the interactive model as well as the navigation features.
 
 - ### **Greensock**
-  [Greensock](https://greensock.com/) is a Javascript library for designing responsive animations in websites and apps. It was used to program the interactivity for navigating between different stages in the model.
+  [Greensock](https://greensock.com/) is a JavaScript library for designing responsive animations in websites and apps. It was used to program the interactivity for navigating between different stages in the model.
