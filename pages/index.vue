@@ -17,7 +17,7 @@
           </h2>
           <div class="mt-6 lg:hidden">
             <picture>
-              <source srcset="/sean-typing-animated-373-optimized-still.webp" />
+              <source srcset="/sean-typing-animated-600-optimized-still.webp" />
               <source srcset="~/assets/img/sean-chair-light-logo-v1.png" />
               <img
                 src="
@@ -94,7 +94,7 @@
           class="animate__animated animate__slideInRight animate__delay-1s relative -mr-40 sm:mx-auto max-w-none h-full pl-12"
         >
           <picture>
-            <source srcset="/sean-typing-animated-373-optimized-still.webp" />
+            <source srcset="/sean-typing-animated-600-optimized-still.webp" />
             <source srcset="~/assets/img/sean-chair-light-logo-v1.png" />
             <img
               src="
