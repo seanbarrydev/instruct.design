@@ -158,7 +158,7 @@ export default {
       {
         hid: "keywords",
         name: "keywords",
-        content: "instructional design, learing experience design, curriculum development, learning, training, ad tech, digital media, digital marketing, graphic design, web development, product management, product marketing, sean barry",
+        content: "instructional design, learning experience design, curriculum development, learning, training, ad tech, digital media, digital marketing, graphic design, web development, product management, product marketing, sean barry",
       },
     ],
   },
