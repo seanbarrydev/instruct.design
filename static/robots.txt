@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /about
+Allow: /work
+Allow: /contact
+Disallow: /contact/success
+
+Sitemap: https://instruct.design/sitemap.xml
