@@ -52,6 +52,7 @@
       <NuxtLink
         to="/"
         class="relative z-10 flex items-center w-auto text-2xl font-extrabold leading-none select-none text-gray-900 dark:text-white"
+        translate="no"
       >
         i
         <transition name="wipe"><span class="hidden md:block" v-if="scrollPosition<50">nstruct</span></transition>

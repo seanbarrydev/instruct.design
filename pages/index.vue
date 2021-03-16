@@ -5,6 +5,7 @@
     >
       <div class="text-center lg:text-left sm:max-w-xl mx-auto">
         <h1
+          translate="no"
           class="relative flex w-auto text-xl lg:text-2xl font-extrabold justify-center lg:justify-start"
         >
           instruct<span class="text-cranberry">.</span>design

@@ -4,6 +4,7 @@
   >
     <div
       class="container flex flex-col items-center justify-center px-8 py-8 mx-auto max-w-7xl sm:flex-row"
+      translate="no"
     >
       <nuxt-link
         to="/"
