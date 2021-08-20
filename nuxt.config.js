@@ -185,7 +185,7 @@ export default {
       '/work/media-metrics-elearning',
       '/work/ipg-campaign-workflow',
       '/work/audience-data-elearning',
-      '/work/audience-management'      
+      '/work/audience-management'   
     ]
   }
 
