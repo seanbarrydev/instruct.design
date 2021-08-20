@@ -1,5 +1,5 @@
 <template>
-<iframe src="/Sean Barry Resume.pdf"></iframe>
+<iframe src="/Sean-Barry-Resume.pdf"></iframe>
 </template>
 <script>
 export default {
