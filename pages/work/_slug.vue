@@ -42,6 +42,7 @@
               </time></span
             >
           </div>
+          <!--
           <img
             class="mt-8 w-full rounded-xl"
             :alt="project.alt"
@@ -49,6 +50,7 @@
               require(`~/assets/img/${project.img}?{sizes:[800, 1000],format:'webp'}`)
             "
           />
+          -->
           <p
             class="mt-8 text-xl text-gray-600 dark:text-gray-200 leading-8 border-b-2 border-t-2 py-3 border-gray-300 dark:border-gray-500"
           >
