@@ -39,7 +39,7 @@ export default {
 </script>
 <style>
 iframe {
-    width: 100vw;
-    height: calc(100vh - 148px);
+    width: 100%;
+    height: 100vh;
 }
 </style>
