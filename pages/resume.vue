@@ -19,7 +19,7 @@ export default {
       {
         hid: "og:title",
         name: "og:title",
-        content: "Resume",
+        content: "Sean Barry's Resume",
       },
       {
         hid: "og:site_name",
