@@ -18,9 +18,9 @@ publishDate: 2021-01-04T12:00:00Z
 ## Project
 
 The [Campaign Manager](https://u.amobee.com/page/campaign-manager) series is a core certification path within the larger Amobee U curriculum and costs of three courses: Platform Basics, Campaign Activation, and Performance Management. Learner personas for this and other certifications reflect Amobee's product user personas.
-
+<!--
 <artwork :artwork="artwork"></artwork>
-
+-->
 Much of the coursework in the Campaign Manager series consists of instructional videos, which are embedded in lessons as SCORM packages to allow for learner progress tracking across the program. Videos use an interactive player with a number of helpful features for learners like cross-application picture-in-picture, video bookmarks, and closed captions with text search for navigation.
 
 ## Tools

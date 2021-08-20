@@ -16,9 +16,9 @@ publishDate: 2019-03-20T12:00:00Z
 [Matterkind](https://wearematterkind.com/) (previously Cadreon) offers addressable media solutions for brands and digital marketers using a conscious marketing approach. [Acxiom](https://www.acxiom.com/) is a partner of Matterkind, providing complementary data and identity solutions.
 
 ## Project
-
+<!--
 <artwork :artwork="artwork"></artwork>
-
+-->
 After the acquisition of Acxiom by IPG in 2018, there was a pressing need to establish processes for engagement and collaboration between Matterkind and Acxiom within the broader IPG agency network. Cadreon Explained consisted of a 2-day workshop summit including presentations, activities, and follow-up exercises designed to help teams from both companies identify new business opportunities. 
 
 ## Tools

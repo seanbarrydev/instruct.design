@@ -18,9 +18,9 @@ publishDate: 2017-04-18T12:00:00Z
 ## Project
 
 The Leveraging Audience Data eLearning course provides a comprehensive look into the use of audience data in running effective digital marketing campaigns. Topics include data sourcing, strategy, data management, privacy regulations, and people-based marketing.
-
+<!--
 <artwork :artwork="artwork"></artwork>
-
+-->
 The purpose of the course is to provide learners with a framework for making informed decisions around the strategic and ethical use of personal data. The intended audience for the course is Kinesso's partners and customers who seek to gain actionable insights about how they use their own and others' data.
 
 ## Tools

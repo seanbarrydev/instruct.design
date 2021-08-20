@@ -18,7 +18,7 @@ publishDate: 2016-09-22T12:00:00Z
 ## Project
 
 The Audience Management instructor-led training workshop is a core component of MediaMath's broader product certification program.
-
+<!--
 <artwork :artwork="artwork"></artwork>
-
+-->
 Coursework centers around hands-on application of data management principles using MediaMath's data management platform and provides learners with a reliable data management framework for collecting, activating, measuring, and optimizing data-driven campaigns. The workshop is designed to be interactive and includes flexible exercises that can be adapted for groups of various sizes and backgrounds, as well as for various facilitation formats (ex. in-person vs virtual workshops).

@@ -18,9 +18,9 @@ publishDate: 2017-12-10T12:00:00Z
 ## Project
 
 Mediabrands provides a range of services across its various agencies for running digital campaigns of various types and each of its agencies has a specific focus at different stages in a campaign's lifecycle. These stages range from planning, to strategy design, to building and launching the campaign, to drawing optimization insights.
-
+<!--
 <artwork :artwork="artwork"></artwork>
-
+-->
 The Digital Campaign Workflow is an interactive visual model that illustrates the full workflow across different stages. Users can select specific groups to show or hide, as well as use a navigation menu to shift between different stages of a campaign. In doing so, they're able to evaluate their own responsibilities at different stages, understand what others are responsible for, and ultimately gain a deeper understanding of all moving parts in a digital campaign.
 
 ## Tools

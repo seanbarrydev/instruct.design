@@ -16,9 +16,9 @@ publishDate: 2018-02-25T12:00:00Z
 [Matterkind](https://wearematterkind.com/) (previously Cadreon) offers addressable media solutions for brands and digital marketers using a conscious marketing approach.
 
 ## Project
-
+<!--
 <artwork :artwork="artwork"></artwork>
-
+-->
 The Media Metrics eLearning course consists of several interactive lessons that guide learners on how to use common delivery and performance metrics to optimize digital media campaigns. While the subject matter pertains mostly to campaign management, the concepts can be applied in a number of other areas related to digital media such as strategy, data science, and finance.
 
 ## Tools

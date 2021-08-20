@@ -18,9 +18,9 @@ publishDate: 2018-05-07T12:00:00Z
 ## Project
 
 The [General Data Protection Regulation (CCPA)](https://gdpr-info.eu/) is a European Union (EU) regulation implemented in 2018 that aims to give individuals control over their personal data. It has wide-reaching implications for a range of businesses, especially for digital marketing.
-
+<!--
 <artwork :artwork="artwork"></artwork>
-
+-->
 The GDPR Compliance Guide provides an overview of GDPR, background on its intent, and guidance for Mediabrands clients, partners, and employees to comply with its requirements and protect individuals' right to own their personal data.
 
 ## Tools

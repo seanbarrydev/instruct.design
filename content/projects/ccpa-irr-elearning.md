@@ -18,9 +18,9 @@ publishDate: 2019-06-21T12:00:00Z
 ## Project
 
 The [California Consumer Privacy Act (CCPA)](https://oag.ca.gov/privacy/ccpa) is a data privacy regulation enacted in 2018 that aims to protect the rights to personal privacy for individuals in California. The regulation has implications for a range of businesses both in California and elsewhere. One industry for which CCPA has significant implications is digital marketing.
-
+<!--
 <artwork :artwork="artwork"></artwork>
-
+-->
 The CCPA Rights Requests eLearning course is designed to help people across IPG's broad portfolio of agencies understand the purpose of CCPA, its requirements, and most importantly how to respond to individual rights requests in a compliant manner. The course includes reference materials, exercises, activities, and assessments to ensure learners master the concepts required for CCPA compliance.
 
 ## Tools
