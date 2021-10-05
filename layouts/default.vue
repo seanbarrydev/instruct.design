@@ -1,8 +1,10 @@
 <template>
   <div>
     <Nav />
-    <div class="min-h-screen flex items-center justify-center bg-gray-100 dark:bg-gray-700 text-gray-900 dark:text-white">
-      <Nuxt />
+    <div class="content-area flex items-center justify-center  bg-gray-100 dark:bg-gray-700 text-gray-900 dark:text-white">
+      <div class="min-w-full">
+        <Nuxt />
+      </div>
     </div>
     <Footer />
   </div>
@@ -32,5 +34,14 @@ html {
 *::after {
   box-sizing: border-box;
   margin: 0;
+}
+.content-area {
+  min-height: calc(100vh - 200px);
+}
+
+@media screen and (min-width: 1024px) {
+  .content-area {
+    min-height: calc(100vh - 148px);
+  }
 }
 </style>

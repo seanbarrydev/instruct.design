@@ -101,7 +101,7 @@
               src="
                 require(`~/assets/img/sean-chair-light-logo-v1.png?{sizes:[480, 600],format:'webp'}`)
               "
-              class="object-cover h-96 lg:h-full mx-auto"
+              class="object-cover h-96 lg:h-full mx-auto 2xl:pr-80"
               alt="3d character with laptop"
             />
           </picture>

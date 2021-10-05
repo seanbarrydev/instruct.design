@@ -1,6 +1,6 @@
 <template>
   <section
-    class="py-20 sm:py-24 md:py-36 text-gray-900 dark:text-white bg-gray-100 dark:bg-gray-700 min-h-screen"
+    class="content-area flex items-center justify-center py-20 sm:py-24 md:py-36 text-gray-900 dark:text-white bg-gray-100 dark:bg-gray-700 min-h-screen"
   >
     <div
       class="container items-center max-w-6xl px-4 mx-auto sm:px-20 md:px-32 lg:px-16"
@@ -79,6 +79,15 @@
 </template>
 
 <style>
+.content-area {
+  min-height: calc(100vh - 200px);
+}
+
+@media screen and (min-width: 1024px) {
+  .content-area {
+    min-height: calc(100vh - 148px);
+  }
+}
 </style>
 
 <script>
