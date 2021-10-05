@@ -1,7 +1,7 @@
 <template>
   <div>
     <Nav />
-    <div class="min-h-screen bg-gray-100 dark:bg-gray-700 text-gray-900 dark:text-white">
+    <div class="min-h-screen flex items-center justify-center bg-gray-100 dark:bg-gray-700 text-gray-900 dark:text-white">
       <Nuxt />
     </div>
     <Footer />
