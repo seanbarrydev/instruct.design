@@ -177,6 +177,7 @@ export default {
       '/contact/success'
     ],
     routes: [
+      '/work/yahoo-dsp-certification',
       '/work/campaign-manager',
       '/work/amobee-u',
       '/work/ccpa-irr-elearning',
