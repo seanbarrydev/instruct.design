@@ -156,12 +156,12 @@ export default {
         {
           hid: "twitter:image",
           name: "twitter:image",
-          content: this.project.img,
+          content: "/" + this.project.img,
         },
         {
           hid: "og:image",
           property: "og:image",
-          content: this.project.img,
+          content: "/" + this.project.img,
         },
         { property: "og:image:width", content: "800" },
         { property: "og:image:height", content: "534" },
