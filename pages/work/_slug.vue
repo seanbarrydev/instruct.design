@@ -116,17 +116,17 @@ export default {
       title: this.project.title + " - instruct.design",
       meta: [
         {
-          hid: "work-sample-description",
+          hid: "description",
           name: "description",
           content: this.project.description,
         },
         {
-          hid: "work-sample-og:description",
+          hid: "og:description",
           name: "og:description",
           content: this.project.description,
         },
         {
-          hid: "work-sample-og:title",
+          hid: "og:title",
           name: "og:title",
           content: this.project.title,
         },
@@ -139,27 +139,27 @@ export default {
           content: this.project.updatedAt,
         },
         {
-          hid: "work-sample-twitter:url",
+          hid: "twitter:url",
           name: "twitter:url",
           content: `https://instruct.design/work/${this.$route.params.slug}`,
         },
         {
-          hid: "work-sample-twitter:title",
+          hid: "twitter:title",
           name: "twitter:title",
           content: this.project.title,
         },
         {
-          hid: "work-sample-twitter:description",
+          hid: "twitter:description",
           name: "twitter:description",
           content: this.project.description,
         },
         {
-          hid: "work-sample-twitter:image",
+          hid: "twitter:image",
           name: "twitter:image",
           content: this.project.image,
         },
         {
-          hid: "work-sample-og:image",
+          hid: "og:image",
           property: "og:image",
           content: this.project.image,
         },
@@ -168,7 +168,7 @@ export default {
       ],
       link: [
         {
-          hid: "work-sample-canonical",
+          hid: "canonical",
           rel: "canonical",
           href: `https://instruct.design/work/${this.$route.params.slug}`,
         },
