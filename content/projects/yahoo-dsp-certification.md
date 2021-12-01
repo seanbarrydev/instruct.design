@@ -14,7 +14,7 @@ publishDate: 2021-10-18T12:00:00Z
 
 ## Company
 
-[Yahoo](https://www.yahooinc.com/)'s media, technology, and business platforms connect hundreds of millions of people around the world to the things they love.. 
+[Yahoo](https://www.yahooinc.com/)'s media, technology, and business platforms connect hundreds of millions of people around the world to the things they love.
 
 ## Project
 
