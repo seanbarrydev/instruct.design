@@ -157,6 +157,11 @@ export default {
         content: "instruct.design",
       },
       {
+        hid: "og:image",
+        property: "og:image",
+        content: "/instruct-design.jpg",
+      },
+      {
         hid: "keywords",
         name: "keywords",
         content: "instructional design, learning experience design, curriculum development, learning, training, ad tech, digital media, digital marketing, graphic design, web development, product management, product marketing, sean barry",

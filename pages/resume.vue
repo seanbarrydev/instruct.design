@@ -26,6 +26,11 @@ export default {
         name: "og:site_name",
         content: "instruct.design",
       },
+      {
+        hid: "og:image",
+        property: "og:image",
+        content: "/instruct-design.jpg",
+      },
     ],
     link: [
       {

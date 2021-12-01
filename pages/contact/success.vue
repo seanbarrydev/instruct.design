@@ -68,6 +68,11 @@ module.exports = {
         content: "Contact",
       },
       {
+        hid: "og:image",
+        property: "og:image",
+        content: "/instruct-design.jpg",
+      },
+      {
         hid: "og:site_name",
         name: "og:site_name",
         content: "instruct.design",
