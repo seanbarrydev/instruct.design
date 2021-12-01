@@ -17,7 +17,7 @@ export default {
       },
       { property: "og:site_name", content: "instruct.design" },
       { hid: "og:type", property: "og:type", content: "website" },
-      /*
+
       {
         hid: "og:url",
         property: "og:url",
@@ -62,7 +62,7 @@ export default {
       },
       { name: "twitter:label1", content: "Created by" },
       { name: "twitter:data1", content: "Sean Barry" },
-      */
+
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
