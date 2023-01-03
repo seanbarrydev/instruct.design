@@ -88,9 +88,8 @@ export default {
         innerHTML: `
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
-        gtag(js.toString(), new Date());
-
-        gtag(config.toString(), G-NZW4FDQ4WL.toString());
+        gtag('js', new Date());
+        gtag('config', 'G-NZW4FDQ4WL');
         `,
       },
     ],
@@ -123,7 +122,15 @@ export default {
   modules: ["@nuxtjs/sitemap"],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {},
+  build: {
+    babel: {
+      presets: {
+        jsescOption: {
+          minimal: true,
+        },
+      },
+    },
+  },
 
   // Nuxt pwa configuration (https://pwa.nuxtjs.org/meta)
   pwa: {
