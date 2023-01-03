@@ -90,7 +90,7 @@ export default {
         function gtag(){dataLayer.push(arguments);}
         gtag(js.toString(), new Date());
 
-        gtag(config.toString, G-NZW4FDQ4WL.toString());
+        gtag(config.toString(), G-NZW4FDQ4WL.toString());
         `,
       },
     ],
