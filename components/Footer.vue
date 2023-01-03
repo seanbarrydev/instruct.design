@@ -16,7 +16,7 @@
       <p
         class="mt-4 text-sm text-gray-500 dark:text-white sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-400 sm:mt-0"
       >
-        &copy; instruct.design 2022
+        &copy; instruct.design 2023
       </p>
     </div>
   </footer>
