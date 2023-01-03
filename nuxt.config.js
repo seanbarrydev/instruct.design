@@ -88,12 +88,12 @@ export default {
         innerHTML: `
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
-        gtag(\"js\", new Date());
-        gtag(\"config\", \"G-NZW4FDQ4WL\");
+        gtag(js.toString(), new Date());
+
+        gtag(config.toString, G-NZW4FDQ4WL.toString());
         `,
       },
     ],
-
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
