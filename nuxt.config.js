@@ -89,12 +89,7 @@ export default {
       },
       {
         hid: "GA-4 tracking",
-        innerHTML: `
-        window.dataLayer = window.dataLayer || []; \
-        function gtag(){dataLayer.push(arguments);} \
-        gtag(${gaJsString}, new Date()); \
-        gtag(${gaConfig}, ${gaTrackingId});
-        `,
+        innerHTML: `window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag(${gaJsString}, new Date()); gtag(${gaConfig}, ${gaTrackingId});`,
       },
     ],
 
