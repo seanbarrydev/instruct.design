@@ -90,8 +90,6 @@ export default {
         gtag('js', new Date());
         gtag('config', 'G-NZW4FDQ4WL');
         `,
-        type: "text/javascript",
-        charset: "utf-8",
       },
     ],
   },
