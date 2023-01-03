@@ -1,9 +1,5 @@
 import tailwindTypography from "@tailwindcss/typography";
 
-let gaJsString = 'js'
-let gaConfig = 'config'
-let gaTrackingId = 'G-NZW4FDQ4WL'
-
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -89,7 +85,12 @@ export default {
       },
       {
         hid: "GA-4 tracking",
-        innerHTML: `window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag(${String(gaJsString)}, new Date()); gtag(${String(gaConfig)}, ${String(gaTrackingId)});`,
+        innerHTML: `
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag(\"js\", new Date());
+        gtag(\"config\", \"G-NZW4FDQ4WL\");
+        `,
       },
     ],
 
