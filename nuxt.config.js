@@ -80,7 +80,7 @@ export default {
       {
         hid: "GA-4 script tag",
         src: "https://www.googletagmanager.com/gtag/js?id=G-NZW4FDQ4WL",
-        defer: true,
+        async: true,
       },
       {
         hid: "GA-4 tracking",
