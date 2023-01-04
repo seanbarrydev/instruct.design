@@ -146,7 +146,4 @@
     .nuxt-content ul {
         @apply list-disc;
     }
-    #__nuxt {
-        @apply absolute top-0;
-    }
 }
