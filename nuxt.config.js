@@ -76,7 +76,7 @@ export default {
         href: "https://instruct.design",
       },
     ],
-
+/*
     script: [
       {
         hid: "GA-4 script tag",
@@ -93,6 +93,7 @@ export default {
         `,
       },
     ],
+    */
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -111,7 +112,6 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     "@nuxtjs/tailwindcss",
-    "@nuxtjs/google-analytics",
     "@nuxtjs/pwa",
     "@nuxtjs/fontawesome",
     "@nuxt/content",
@@ -119,17 +119,17 @@ export default {
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ["@nuxtjs/sitemap"],
+  modules: [
+    "@nuxtjs/sitemap"
+  ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-    babel: {
-      presets: {
-        jsescOption: {
-          minimal: true,
-        },
-      },
-    },
+  },
+
+  //env file for Google Analytics 4
+  env: {
+    googleAnalyticsId: process.env.GOOGLE_ANALYTICS_ID
   },
 
   // Nuxt pwa configuration (https://pwa.nuxtjs.org/meta)
@@ -158,10 +158,6 @@ export default {
   // Customize loading bar (https://nuxtjs.org/docs/2.x/configuration-glossary/configuration-loading/)
   loading: {
     color: "#999999",
-  },
-
-  googleAnalytics: {
-    id: "UA-189676115-1",
   },
 
   // https://www.npmjs.com/package/@nuxtjs/fontawesome
