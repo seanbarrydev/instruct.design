@@ -85,13 +85,9 @@ export default {
       },
       {
         hid: "GA-4 tracking",
-        innerHTML: `
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-NZW4FDQ4WL');
-        `,
+        innerHTML: "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-NZW4FDQ4WL');",
       },
+      
     ],
     
   },
