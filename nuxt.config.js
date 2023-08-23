@@ -76,7 +76,7 @@ export default {
         href: "https://instruct.design",
       },
     ],
-/*
+
     script: [
       {
         hid: "GA-4 script tag",
@@ -93,7 +93,7 @@ export default {
         `,
       },
     ],
-    */
+    
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
