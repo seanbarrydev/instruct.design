@@ -78,6 +78,7 @@ export default {
     ],
 
     script: [
+      /*
       {
         hid: "GA-4 script tag",
         src: "https://www.googletagmanager.com/gtag/js?id=G-NZW4FDQ4WL",
@@ -87,7 +88,7 @@ export default {
         hid: "GA-4 tracking",
         innerHTML: "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-NZW4FDQ4WL');",
       },
-      
+      */
     ],
     
   },
