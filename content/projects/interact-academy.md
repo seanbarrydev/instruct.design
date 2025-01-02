@@ -35,13 +35,13 @@ The following tools are used in managing Interact Academy:
   The [Evolve](https://www.evolveauthoring.com/) authoring tool was used to create most of the elearning content used in the Interact Academy. Evolve features a robust set of built-in learning interactions and extensions like quizzing, software simulation, variables, and more.
 
 - ### **Camtasia**
-  Content
+  [Camtasia](https://www.techsmith.com/video-editor.html) is a screen recorder and video editor used to create tutorials and instructional videos. It is used throughout Interact Academy curriculum to include interactive videos that serve as guides for various product workflows.
 
-- ### **Heap Analytics**
-  Content
+- ### **Heap by Contentsquare**
+  [Heap Analytics]([url](https://www.heap.io/)) (by Contentsquare) is a digital analytics platform that automatically tracks user interactions to provide insights for optimizing customer journeys and improving conversion rates. A key aspect of Interact Academy is its direct connection to the Interact platform. Heap Analytics measures engagement of both the Academy on the Interact platform, to deliver user-level insights about the direct impacts of product education on product adoption and growth.
 
 - ### **Amazon Web Services**
-  Content
+  Interact Academy leverages [Amazon Web Services](https://aws.amazon.com/) for various system intergations to deliver a unified learner experience. Specific services include [AWS Lambda](https://aws.amazon.com/lambda/) for customized API integratinos, [Amazon SES](https://aws.amazon.com/ses/) for email custom communications, and [AWS S3](https://aws.amazon.com/s3/) for asset storage.
 
 - ### **Adobe Creative Cloud**
-  Content
+  Interact Academy has a dedicated design system that aligns with Interact's platform design system and IPG's larger brand identity. Graphic assets such as illustrations, diagrams, and video animations are created using [Adobe Creative Cloud](https://www.adobe.com/creativecloud) tools like Illustrator, Photoshop, and After Effects.
