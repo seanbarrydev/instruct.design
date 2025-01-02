@@ -14,11 +14,11 @@ publishDate: 2020-08-03T12:00:00Z
 
 ## Company
 
-[Amobee](https://amobee.com) is a technology company that provides a suite of software products for digital marketers with a focus on converged marketing. 
+[Amobee](https://amobee.com) is a technology company that provides a suite of software products for digital marketers with a focus on converged marketing. Amobee was acquired by Nexxen in 2022.
 
 ## Project
 
-[Amobee U](https://u.amobee.com) is an online training and certification program designed to help Amobee's clients and partners build knowledge and skills needed for success in today's evolving digital media space. The curriculum consists of certification training, product spotlights, and other on-demand educational resources. Learners access the program using their existing Amobee platform login or by registering with Amobee's Product Training and Certification team.
+Amobee U was an online training and certification program designed to help Amobee's clients and partners build knowledge and skills needed for success in today's evolving digital media space. The curriculum consists of certification training, product spotlights, and other on-demand educational resources. Learners access the program using their existing Amobee platform login or by registering with Amobee's Product Training and Certification team.
 <!--
 <artwork :artwork="artwork"></artwork>
 -->
