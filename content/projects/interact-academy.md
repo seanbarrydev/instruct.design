@@ -22,6 +22,8 @@ Interact is IPG's proprietary platform that includes a wide array of tools used 
 
 Across the curriculum, coursework and lessons are delivered in various formats such as instructional videos, eLearning modules, reference documentation, interactive widgets, and more.
 
+In 2024, Interact Academy was [recognized publicly](https://www.intellum.com/news/2024-growth-makers-awards-winners) by our LMS partner in the category of Customer Retention. Additionally, one of its programs was the subject of a [case study](https://www.intellum.com/case-studies/kinesso) highlighting our integrated analytics strategy, specifically how it led to a 900% increase in user certifications, 44% decrease in time-to-value, and 11% increase in relative adoption lift overall.
+
 ## Tools
 
 The following tools are used in managing Interact Academy:
