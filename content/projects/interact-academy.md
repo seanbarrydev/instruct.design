@@ -40,8 +40,8 @@ The following tools are used in managing Interact Academy:
 - ### **Heap Analytics**
   Content
 
-  - ### **Amazon Web Services**
+- ### **Amazon Web Services**
   Content
 
-  - ### **Adobe Creative Cloud**
+- ### **Adobe Creative Cloud**
   Content
