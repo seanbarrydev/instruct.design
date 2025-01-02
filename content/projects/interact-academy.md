@@ -4,8 +4,8 @@ description: Online academy for users of IPG's Interact platform to master its w
 tags: ['eLearning', 'certification']
 format: Online Curriculum
 faIconClass: ['fas','graduation-cap']
-img: amobee-u-mock.jpg
-alt: hand on laptop keyboard with Amobee U homepage
+img: interact-academy-mock.jpg
+alt: hand on laptop keyboard with Interact Academy homepage
 artwork:
   image: ../amobee-u.gif
   alt: animated image of program homepage
