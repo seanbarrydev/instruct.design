@@ -9,7 +9,7 @@ alt: hand on laptop keyboard with Amobee U homepage
 artwork:
   image: ../amobee-u.gif
   alt: animated image of program homepage
-publishDate: 2020-08-03T12:00:00Z
+publishDate: 2024-11-04T12:00:00Z
 ---
 
 ## Company
