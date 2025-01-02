@@ -19,9 +19,7 @@ publishDate: 2024-11-04T12:00:00Z
 ## Project
 
 Interact is IPG's proprietary platform that includes a wide array of tools used by agencies to build and analyze audiences, plan media budgets, activate campaigns, and analyze performance. [Interact Academy](https://academy.kinesso.com) is an online academy for users of IPG's Interact platform to master these tools, attend events, earn certifications, and more.
-<!--
-<artwork :artwork="artwork"></artwork>
--->
+
 Across the curriculum, coursework and lessons are delivered in various formats such as instructional videos, eLearning modules, reference documentation, interactive widgets, and more.
 
 ## Tools
