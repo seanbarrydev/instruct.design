@@ -28,15 +28,20 @@ Across the curriculum, coursework and lessons are delivered in various formats s
 
 The following tools are used in managing Interact Academy:
 
-- ### **Skilljar**
-  [Intellum](https://intellum.com) is a learning/content management system designed specifically for creating and managing customer education programs. Amobee U uses Skilljar to manage course assets, program infrastructure, student groups, and more.
+- ### **Intellum**
+  [Intellum](https://www.intellum.com/platform/overview) offers a platform for developing and managing online customer education programs. The Intellum LMS used to host and manage the learner experience for Interact Academy including enrollment, progress tracking, and certification.
+
+- ### **Evolve**
+  The [Evolve](https://www.evolveauthoring.com/) authoring tool was used to create most of the elearning content used in the Interact Academy. Evolve features a robust set of built-in learning interactions and extensions like quizzing, software simulation, variables, and more.
 
 - ### **Camtasia**
-  [Camtasia](https://www.techsmith.com/video-editor.html) is a screen recorder and video editor used to create tutorials and instructional videos. It is used throughout the Amobee U curriculum to include interactive videos and SCORM packages for learner progress tracking.
+  Content
 
-- ### **Vue.js**
-  [Vue.js](https://vuejs.org/) is an open source web framework for building and managing modern user interfaces. It is used in several lessons within Amobee U to create interactive visual models that illustrate key concepts.
+- ### **Heap Analytics**
+  Content
 
-- ### **Google Slides**
-  Google Slides was used to design various course materials and interactive lessons, as well as promotional materials like the [Introducing Amobee U](https://u.amobee.com/intro-presentation/585408) overview deck.
+  - ### **Amazon Web Services**
+  Content
 
+  - ### **Adobe Creative Cloud**
+  Content
