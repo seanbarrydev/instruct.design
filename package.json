@@ -40,5 +40,8 @@
     "sharp": "^0.27.1",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat",
     "webp-loader": "^0.6.0"
+  },
+  "engines": {
+  "node": ">=14.15 <20"
   }
 }
