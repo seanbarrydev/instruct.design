@@ -95,11 +95,13 @@
           class="animate__animated animate__slideInRight animate__delay-1s relative -mr-40 sm:mx-auto max-w-none h-full pl-12"
         >
           <picture>
+            <!--
             <source srcset="/sean-typing-animated-373-optimized-still.webp" />
             <source srcset="~/assets/img/sean-chair-light-logo-v1.png" />
+            -->
             <img
               src="
-                require(`~/assets/img/sean-chair-light-logo-v1.png?{sizes:[480, 600],format:'webp'}`)
+                require(`~/assets/img/sb-hs-round.png?{sizes:[480, 600],format:'webp'}`)
               "
               class="object-cover h-96 lg:h-full mx-auto 2xl:pr-80"
               alt="3d character with laptop"
