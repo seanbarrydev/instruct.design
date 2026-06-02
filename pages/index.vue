@@ -18,11 +18,13 @@
           </h2>
           <div class="mt-6 lg:hidden">
             <picture>
+              <!--
               <source srcset="/sean-typing-animated-373-optimized-still.webp" />
-              <source srcset="~/assets/img/sean-chair-light-logo-v1.png" />
+              -->
+              <source srcset="~/assets/img/sb-hs-round.png" />
               <img
                 src="
-                require(`~/assets/img/sean-chair-light-logo-v1.png?{sizes:[480, 600],format:'webp'}`)
+                require(`~/assets/img/sean-sb-hs-round.png?{sizes:[480, 600],format:'webp'}`)
               "
                 class="relative z-10 mx-auto"
                 alt="3d character with laptop"
