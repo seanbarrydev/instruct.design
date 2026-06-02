@@ -97,8 +97,9 @@
           <picture>
             <!--
             <source srcset="/sean-typing-animated-373-optimized-still.webp" />
-            <source srcset="~/assets/img/sean-chair-light-logo-v1.png" />
             -->
+            <source srcset="~/assets/img/sb-hs-round.png" />
+            
             <img
               src="
                 require(`~/assets/img/sb-hs-round.png?{sizes:[480, 600],format:'webp'}`)
