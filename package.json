@@ -8,9 +8,6 @@
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
-  "engines": {
-  "node": ">=22.0.0"
-  },
   "dependencies": {
     "@fortawesome/free-regular-svg-icons": "^5.15.2",
     "@nuxt/content": "^1.12.0",
